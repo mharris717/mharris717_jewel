@@ -1,0 +1,1 @@
+rm -rf /code/orig/jewel_test_3 && thor jewel:create jewel_test_3
